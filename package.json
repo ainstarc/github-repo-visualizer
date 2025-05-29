@@ -16,6 +16,10 @@
       {
         "command": "githubRepoVisualizer.showRepos",
         "title": "GitHub Repo Visualizer: Show My Repos"
+      },
+      {
+        "command": "githubRepoVisualizer.showDashboard",
+        "title": "GitHub Repo Visualizer: Show Dashboard"
       }
     ]
   },
